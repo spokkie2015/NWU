@@ -4,3 +4,4 @@
 - Hours to Minuts
 - Feet to Inches
 - Degrees to Radians
+- Inches to Centimeters
